@@ -4,6 +4,8 @@ Create Cost Management in Snowflake with Tasty Bytes Dataset sample
 ## Prerequisites
 Before beginning, please make sure you have completed the Introduction to Tasty Bytes Quickstart which provides a walkthrough on setting up a trial account and deploying the Tasty Bytes Foundation required to complete this Quickstart.
 
+We will learn about Cost Management in Snowflake by diving into Snowflake Warehouses and their configurability, Resource Monitors, Account and Warehouse Level Timeout Parameters, Budgets and Exploring Cost.
+
 ## What You Will Learn
 -  How to Create and Configure a Snowflake Warehouse
 -  How to Scale a Snowflake Warehouse Up and Down
@@ -17,3 +19,6 @@ Before beginning, please make sure you have completed the Introduction to Tasty 
 -  A Snowflake Warehouse
 -  A Resource Monitor
 -  A Cost Center Tag
+
+## Lesson Results
+1.  
